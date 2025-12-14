@@ -23,3 +23,5 @@ This project is a Sweet Shop Management System designed to manage sweets, ladoos
 3. Install dependencies:
    ```bash
    npm install
+
+<img width="913" height="609" alt="image" src="https://github.com/user-attachments/assets/cf8f8f46-c319-478f-adb6-118f7ad4dd87" />
