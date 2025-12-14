@@ -24,4 +24,24 @@ This project is a Sweet Shop Management System designed to manage sweets, ladoos
    ```bash
    npm install
 
-<img width="913" height="609" alt="image" src="https://github.com/user-attachments/assets/cf8f8f46-c319-478f-adb6-118f7ad4dd87" />
+   During the development of the Sweet Shop Management System, I leveraged AI tools to improve efficiency and reduce repetitive work. Here is a detailed breakdown:
+
+Tool Used: ChatGPT (OpenAI)
+
+How I Used It:
+
+Generated initial boilerplate code for the FastAPI backend (routes, CORS setup, simple API endpoints).
+
+Created React frontend components including App.jsx and main.jsx structure.
+
+Provided guidance on integrating frontend with backend, including API calls using Axios.
+
+Assisted in troubleshooting errors such as CORS issues, HTTP method mismatches, and frontend runtime errors.
+
+Suggested minimal working solutions under time constraints to ensure a functional demo.
+
+Reflection:
+Using AI allowed me to focus on the core functionality and integration logic instead of getting stuck on syntax or boilerplate. It helped me quickly resolve errors and produce a working full-stack application. I manually reviewed, adjusted, and tested all AI-generated code to ensure correctness and learning.
+
+<img width="907" height="601" alt="image" src="https://github.com/user-attachments/assets/8f5669c6-23cc-4a71-a054-01b8aa9d41c6" />
+
